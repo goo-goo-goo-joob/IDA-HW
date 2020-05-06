@@ -16,4 +16,6 @@ Tasks on Deep Learning:
 
 Tasks on Applied Problems of Data Analysis:
 * hw1: Recommendation systems (predict click) https://www.kaggle.com/c/recsys-iad-challenge
+  - LightFM
+  - SVD, embedding, SGDClassifer, mix predictions
 * hw2: A/b testing, hypothesis testing
