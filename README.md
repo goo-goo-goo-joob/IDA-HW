@@ -12,3 +12,8 @@ Tasks on Deep Learning:
 * hw3: CNN for CIFAR-10
 * hw4: https://www.kaggle.com/c/chinese-char-recognition-smmo19/data
 * hw5: https://www.kaggle.com/c/iad-deep-learning-sentiment
+
+
+Tasks on Applied Problems of Data Analysis:
+* hw1: Recommendation systems (predict click) https://www.kaggle.com/c/recsys-iad-challenge
+* hw2: A/b testing, hypothesis testing
