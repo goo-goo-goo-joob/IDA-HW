@@ -19,3 +19,6 @@ Tasks on Applied Problems of Data Analysis:
   - LightFM
   - SVD, embedding, SGDClassifer, mix predictions
 * hw2: A/b testing, hypothesis testing
+* hw3: Time series. COVID-19 analytics
+  - Exploratory data analysis
+  - Time series forecasting (CFR): Mean Constant Model, Linear Trend Model, Exponential smoothing, ARIMA, SARIMA, Prophet, Linear Regression Model, CatBoost, LinearRegression, MarkovRegression
